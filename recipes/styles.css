@@ -1,0 +1,22 @@
+/* styles.css*/
+.ingredients{
+border-style: outset;
+}
+body {
+    background-color: black;
+    font-family: 'Mrs Eaves', Helvetica, 'sans-serif';
+    color: white;
+    font-size: 26px;
+}
+
+
+
+ul li {
+    font-size: 20px;    
+    list-style-type: circle;
+}
+
+ol li {
+    font-size: 24px;
+    list-style-type: lower-roman;
+}
